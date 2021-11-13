@@ -1,0 +1,9 @@
+.card{
+    height: 600px;;
+    width:1080px;
+    background-color: rgb(238, 238, 247);
+    box-shadow: 10px 10px 5px grey;
+    overflow: scroll;
+    overflow-x: hidden;
+
+}

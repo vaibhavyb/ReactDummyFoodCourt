@@ -1,0 +1,42 @@
+.Meal-Item{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#f79245;
+    margin:5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px grey;
+}
+.Detail{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-right: 30px;
+
+}
+.foodname{
+    margin-left: 30px;
+}
+.add{
+    background-color: #f7d043;
+    color: brown;
+    border-radius: 20px;
+}
+.add:hover,.newpattern:hover{
+    background-color:black;
+    color: white;
+    cursor: pointer; 
+}
+.newpattern{
+    background-color: #f7d043;
+    color: brown;
+    border-radius: 20px;
+}
+.data{
+    margin-right: 5px;
+    margin-left: 5px;
+}

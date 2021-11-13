@@ -1,0 +1,39 @@
+.item{
+display: flex;
+flex:1;
+flex-direction: row;
+justify-content: space-between;
+margin-top: 20px;
+
+}
+.det{
+    margin-left: 20px;
+    
+
+}
+.amount{
+    margin-right: 20px;
+
+}
+.lab1{
+    margin-right: 10px;
+    font-weight: 600;
+
+}
+.lab2{
+    font-weight: 600;
+    
+}
+.lab3{
+    margin-left: 10px;
+    font-weight: 600;
+    
+}
+.line{
+    margin-top: 10px;
+    margin-left: 10px;
+    width:220px;
+    border: 0.3px solid black;
+    box-shadow: 3px 3px 2px grey;
+
+}

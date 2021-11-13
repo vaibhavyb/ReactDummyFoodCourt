@@ -1,0 +1,26 @@
+.cartLabel{
+margin-left: 40px;
+font-family: cursive;
+
+}
+.icon{
+margin-right: 3px;
+font-size: 2em;
+cursor: pointer;
+}
+.badge{
+
+    border-radius: 70px;
+    background-color: black;
+    color: white;
+    padding:8px 15px 8px 15px;
+    cursor: pointer;
+
+}
+.cart-icon{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+}
