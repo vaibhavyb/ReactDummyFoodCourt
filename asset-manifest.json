@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactDummyFoodCourt/static/css/main.0274be79.chunk.css",
+    "main.css": "/ReactDummyFoodCourt/static/css/main.099e92ab.chunk.css",
     "main.js": "/ReactDummyFoodCourt/static/js/main.739bc4a6.chunk.js",
     "main.js.map": "/ReactDummyFoodCourt/static/js/main.739bc4a6.chunk.js.map",
     "runtime-main.js": "/ReactDummyFoodCourt/static/js/runtime-main.bd766fc5.js",
@@ -10,13 +10,13 @@
     "static/js/3.bdd9a357.chunk.js": "/ReactDummyFoodCourt/static/js/3.bdd9a357.chunk.js",
     "static/js/3.bdd9a357.chunk.js.map": "/ReactDummyFoodCourt/static/js/3.bdd9a357.chunk.js.map",
     "index.html": "/ReactDummyFoodCourt/index.html",
-    "static/css/main.0274be79.chunk.css.map": "/ReactDummyFoodCourt/static/css/main.0274be79.chunk.css.map",
+    "static/css/main.099e92ab.chunk.css.map": "/ReactDummyFoodCourt/static/css/main.099e92ab.chunk.css.map",
     "static/js/2.c880f431.chunk.js.LICENSE.txt": "/ReactDummyFoodCourt/static/js/2.c880f431.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd766fc5.js",
     "static/js/2.c880f431.chunk.js",
-    "static/css/main.0274be79.chunk.css",
+    "static/css/main.099e92ab.chunk.css",
     "static/js/main.739bc4a6.chunk.js"
   ]
 }
