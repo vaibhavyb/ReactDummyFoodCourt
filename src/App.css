@@ -22,7 +22,16 @@
   .modal{
       
 position: relative;
-left: 3vh;
+left: 20%;
+
+
+  }
+  .mainBlock{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    margin:10px;
 
 
   }
