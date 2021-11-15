@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import OrderItem from "./OrderItem";
+import './Orders.css'
 
 function Orders(props) {
   return (
-    <div>
+    <div className="orders">
       {props.data.length != 0 && (
         <h3 style={{ textAlign: "center" }}>ORDER SUMMARY</h3>
       )}
